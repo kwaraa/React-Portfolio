@@ -52,7 +52,7 @@ let resumeData = {
       },
       {
         "CompanyName":"Future Electronics Pte Ltd",
-        "specialization":"Business Associate (Supply chai), Intern",
+        "specialization":"Business Associate (Supply chain), Intern",
         "MonthOfLeaving":"Apr 2015 -",
         "YearOfLeaving":"Aug 2015",
         "Achievements":""
