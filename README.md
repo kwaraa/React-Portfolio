@@ -1,3 +1,3 @@
 A simple react portfolio!
 
-![Uploading image.png…]()
+![image](https://github.com/kwaraa/react-portfolio/assets/78788899/08366adb-188c-4c0a-882d-052f757df0e9)
