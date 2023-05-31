@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"https://kwaraa.github.io/",
     "name": "Benjamin Toh",
     "role": "Computer Science Graduate and an aspiring Software Engineer",
     "emailAdd":" bentohjh@gmail.com",
@@ -19,42 +19,42 @@ let resumeData = {
       ],
     "aboutme":"I am a passionate individual who recently graduated from Nanyang Technological University with a degree in Computer Science. Throughout my time in university, I honed my skills in various areas of computer science, including industry-standard programming languages, data structures, algorithms and software development methodologies. I aspire to contribute to the development of innovative and impactful software solutions.",
     "address":"Singapore",
-    "website":"+65 8518 7326",
+    "phoneNumber":"+65 8518 7326",
     "education":[
       {
         "UniversityName":"Nanyang Technological University",
         "specialization":"Computer Science",
-        "MonthOfPassing":"Aug 2019 -",
-        "YearOfPassing":"Jan 2023",
+        "StartDate":"Aug 2019",
+        "EndDate":"Jan 2023",
         "Achievements":"Honours (Distinction), GPA: 4.06/5.00"
       },
       {
         "UniversityName":"Singapore Polytechnic",
         "specialization":"Engineering with Business",
-        "MonthOfPassing":"Apr 2014 -",
-        "YearOfPassing":"Mar 2017",
+        "StartDate":"Apr 2014",
+        "EndDate":"Mar 2017",
         "Achievements":"GPA: 3.67/4.00"
       },{
         "UniversityName":"Victoria School",
         "specialization":"GCE 'O' levels",
-        "MonthOfPassing":"Jan 2010 -",
-        "YearOfPassing":"Dec 2013",
+        "StartDate":"Jan 2010",
+        "EndDate":"Dec 2013",
         "Achievements":""
       }
     ],
-    "work":[
+    "intern":[
       {
         "CompanyName":"Kinexcs Pte Ltd",
         "specialization":"Software Engineer (Full Stack), Intern",
-        "MonthOfLeaving":"Jul 2021 -",
-        "YearOfLeaving":"Dec 2021",
+        "StartDate":"Jul 2021 -",
+        "EndDate":"Dec 2021",
         "Achievements":""
       },
       {
         "CompanyName":"Future Electronics Pte Ltd",
         "specialization":"Business Associate (Supply chain), Intern",
-        "MonthOfLeaving":"Apr 2015 -",
-        "YearOfLeaving":"Aug 2015",
+        "StartDate":"Apr 2015 -",
+        "EndDate":"Aug 2015",
         "Achievements":""
       }
     ],
